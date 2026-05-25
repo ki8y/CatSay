@@ -19,6 +19,7 @@ So this is pretty old, and my code sucked back then even more than it does now. 
 Known Issues:
 - no multiline support
 - might be slow on some old pc's idk i've never had that issue
+- overall messy and flawed code, but don't shame him, he's trying his best.
 
 Todo list:
 No planned changes atm. I kinda abandoned this silly side project LOL
